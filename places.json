@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Grand Canyon",
+        "address": "3007 Grand Canyon, Arizona 86023",
+        "description":"Located in Arizona, Grand Canyon National Park encompasses 277 miles (446 km) of the Colorado River and adjacent uplands. The immense Grand Canyon is a mile (1.6 km) deep, and up to 18",
+       "image":"img1.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12894.970378963342!2d-112.1212393614793!3d36.09976228157964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cc0654bd27e08d%3A0xb1c2554442d42e8d!2sGrand%20Canyon!5e0!3m2!1sen!2sus!4v1648585898000!5m2!1sen!2sus" 
+    },
+
+    {
+        "name": "Sadona",
+        "address": "Sedona, AZ 86336",
+        "description":"Sedona is an Arizona desert town near Flagstaff that’s surrounded by red-rock buttes, steep canyon walls and pine forests. It’s noted for its mild climate and vibrant arts community. Uptown Sedona is dense with New Age shops, spas and art galleries",
+       "image":"img2.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52385.180505954886!2d-111.83015787885898!3d34.85437338106621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da132f942b00d%3A0x5548c523fa6c8efd!2sSedona%2C%20AZ%2086336!5e0!3m2!1sen!2sus!4v1648675396376!5m2!1sen!2sus" 
+
+
+    },
+
+    {
+        "name": "Pheniox art museum",
+        "address": "625 N Central Ave, Phoenix, AZ 85004",
+        "description":"The Phoenix Art Museum is the largest museum for visual art in the southwest United States. Located in Phoenix, Arizona, the museum is 285,000 square feet (26,500 m2). It displays international exhibitions alongside its comprehensive collection of more than 18,000 works of American, Asian, European, Latin American, Western American, modern and contemporary art, and fashion design.",
+        "image":"img3.jpg",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.3065705004315!2d-112.07561168457299!3d33.467368280768994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b12404f46c099%3A0x7e4a690d4b280af1!2sPhoenix%20Art%20Museum!5e0!3m2!1sen!2sus!4v1648678386852!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "Six Flags",
+        "address": "4243 W Pinnacle Peak Rd, Glendale, AZ 85310",
+        "description": "Six Flags Entertainment Corporation, more commonly known as Six Flags or as Six Flags Theme Parks, is an American amusement park corporation, headquartered in Arlington, Texas. It has properties in Canada, Mexico, and the United States. Six Flags owns more theme parks and waterparks combined than any other amusement park company in the world, and has the seventh-highest attendance in the world.",
+        "image":"img4.jpg",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.488848777925!2d-112.15263728456769!3d33.69629738070429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b660f654ed85b%3A0x4d9bd3ff8a019b7!2sHurricane%20Harbor%20Phoenix!5e0!3m2!1sen!2sus!4v1648758086294!5m2!1sen!2sus"
+    }
+
+]
